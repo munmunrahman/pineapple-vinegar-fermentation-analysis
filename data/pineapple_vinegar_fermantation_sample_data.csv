@@ -1,0 +1,31 @@
+experiment_stage,strain,time_day,tss_brix,alcohol_content_percent,specific_gravity,pH,total_acidity_percent
+Alcoholic Fermentation,Yeast,0,25.0,0.0,1.00,5.5,0.18
+Alcoholic Fermentation,Yeast,2,18.0,4.5,0.98,5.0,0.20
+Alcoholic Fermentation,Yeast,4,12.0,5.0,0.96,4.6,0.25
+Alcoholic Fermentation,Yeast,6,10.0,7.0,0.95,4.2,0.30
+Alcoholic Fermentation,Yeast,8,9.0,8.5,0.94,3.9,0.35
+Alcoholic Fermentation,Yeast,10,7.4,10.5,0.94,3.6,0.18
+Acetic Fermentation,Strain A,0,7.4,10.5,0.94,3.6,0.18
+Acetic Fermentation,Strain A,3,7.0,9.2,0.96,3.4,1.2
+Acetic Fermentation,Strain A,6,6.4,7.0,0.98,3.2,2.4
+Acetic Fermentation,Strain A,9,5.5,5.2,1.00,3.0,3.2
+Acetic Fermentation,Strain A,12,4.8,3.5,1.01,2.9,4.1
+Acetic Fermentation,Strain A,15,4.0,2.4,1.02,2.85,4.8
+Acetic Fermentation,Strain A,18,3.5,1.4,1.02,2.82,5.3
+Acetic Fermentation,Strain A,21,3.2,1.0,1.02,2.80,5.48
+Acetic Fermentation,Strain B,0,7.4,10.5,0.94,3.6,0.18
+Acetic Fermentation,Strain B,3,7.0,9.0,0.96,3.4,1.4
+Acetic Fermentation,Strain B,6,6.5,8.0,0.98,3.2,2.7
+Acetic Fermentation,Strain B,9,5.0,6.8,1.00,3.0,3.7
+Acetic Fermentation,Strain B,12,4.0,4.8,1.01,2.8,4.6
+Acetic Fermentation,Strain B,15,3.4,3.0,1.02,2.7,5.3
+Acetic Fermentation,Strain B,18,3.1,1.7,1.03,2.65,5.8
+Acetic Fermentation,Strain B,21,3.0,1.1,1.032,2.60,6.01
+Brix Optimization,Strain A,0,10.0,,,5.5,3.4
+Brix Optimization,Strain A,0,20.0,,,5.5,4.1
+Brix Optimization,Strain A,0,25.0,,,5.5,6.4
+Brix Optimization,Strain A,0,30.0,,,5.5,4.2
+pH Optimization,Strain A,0,25.0,,,4.5,4.9
+pH Optimization,Strain A,0,25.0,,,5.5,6.1
+pH Optimization,Strain A,0,25.0,,,6.5,5.2
+pH Optimization,Strain A,0,25.0,,,7.5,3.2
